@@ -25,6 +25,8 @@ namespace CalculadoraApp
             cmbOperacion.Items.Insert(1, "-");
             cmbOperacion.Items.Insert(2, "*");
             cmbOperacion.Items.Insert(3, "/");
+            cmbOperacion.SelectedItem = "+";
+            cmbOperacion.DropDownStyle = ComboBoxStyle.DropDownList;
         }
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
@@ -47,10 +49,14 @@ namespace CalculadoraApp
             _numero2 = new Numero(txtNumero2.Text.ToString());
             _operar = new Calculadora();
             operador = _operar.ValidarOperador(cmbOperacion.Text);
-            //cmbOperacion.Text = operador;
             resultado = _operar.Operar(_numero1, _numero2, operador);
             lblResulado.Text = resultado.ToString();
             
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

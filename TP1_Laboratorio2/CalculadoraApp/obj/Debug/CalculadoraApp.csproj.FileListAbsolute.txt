@@ -7,3 +7,12 @@ C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP1_Laboratorio2
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP1_Laboratorio2\CalculadoraApp\bin\Debug\CalculadoraApp.pdb
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.exe
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\bin\Debug\CalculadoraApp.exe.config
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.exe
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\bin\Debug\CalculadoraApp.exe
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\bin\Debug\CalculadoraApp.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.Form1.resources
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.Properties.Resources.resources
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP1_Laboratorio2\CalculadoraApp\obj\Debug\CalculadoraApp.csproj.GenerateResource.Cache
