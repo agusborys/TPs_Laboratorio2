@@ -19,10 +19,17 @@ namespace Entidades_2017
         }
 
         #region "Constructores"
+        /// <summary>
+        /// Constructor por defecto, inicializa la lista de productos
+        /// </summary>
         private Changuito()
         {
             this._productos = new List<Producto>();
         }
+        /// <summary>
+        /// Constructor de instancia para un Changuito
+        /// </summary>
+        /// <param name="espacioDisponible"></param>
         public Changuito(int espacioDisponible):this()
         {
             this._espacioDisponible = espacioDisponible;
@@ -31,7 +38,7 @@ namespace Entidades_2017
 
         #region "Sobrecargas"
         /// <summary>
-        /// Muestro la concecionaria y TODOS los Productos
+        /// Muestro el changuito y TODOS los Productos
         /// </summary>
         /// <returns></returns>
         public override string ToString()

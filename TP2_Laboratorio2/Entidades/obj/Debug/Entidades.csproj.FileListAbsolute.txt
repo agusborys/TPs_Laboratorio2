@@ -18,3 +18,8 @@ C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP2_Laboratorio2
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.dll
 C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP2_Laboratorio2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP2_Laboratorio2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP2_Laboratorio2\Entidades\obj\Debug\Entidades.pdb

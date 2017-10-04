@@ -45,7 +45,10 @@ namespace Entidades_2017
         {
             return (string)this;
         }
-
+        /// <summary>
+        /// Sobrecarga del string explicit para mostrar datos del producto
+        /// </summary>
+        /// <param name="p"></param>
         public static explicit operator string(Producto p)
         {
             StringBuilder sb = new StringBuilder();

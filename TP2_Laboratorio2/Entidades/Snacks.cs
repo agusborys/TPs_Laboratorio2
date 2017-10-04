@@ -8,12 +8,18 @@ namespace Entidades_2017
 {
     public class Snacks : Producto
     {
+        /// <summary>
+        /// Constructor de instancia para un Snacks
+        /// </summary>
+        /// <param name="marca"></param>
+        /// <param name="codigo"></param>
+        /// <param name="color"></param>
         public Snacks(EMarca marca, string codigo, ConsoleColor color)
             : base(codigo, marca, color)
         {
         }
         /// <summary>
-        /// Los snacks tienen 104 calorías
+        /// Propiedad que devuelve la cantidad de calorias de los Snacks(104)
         /// </summary>
         protected override short CantidadCalorias
         {
@@ -22,8 +28,11 @@ namespace Entidades_2017
                 return 104;
             }
         }
-
-        public override sealed string Mostrar()
+        /// <summary>
+        /// Muestra toda la informacion del producto
+        /// </summary>
+        /// <returns></returns>
+        public override string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
 
