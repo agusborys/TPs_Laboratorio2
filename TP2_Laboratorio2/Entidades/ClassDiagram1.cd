@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Entidades_2017.Changuito">
+    <Position X="7.5" Y="0.5" Width="4" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades_2017.Changuito.ETipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Changuito.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQEAAAEQAEAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Changuito.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2017.Dulce">
+    <Position X="0.5" Y="7.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Dulce.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2017.Leche">
+    <Position X="8.75" Y="7.25" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades_2017.Leche.ETipo">
+        <TypeIdentifier>
+          <NewMemberFileName>Leche.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <InheritanceLine Type="Entidades_2017.Producto" FixedFromPoint="true">
+      <Path>
+        <Point X="4.25" Y="5.896" />
+        <Point X="4.25" Y="6.875" />
+        <Point X="11" Y="6.875" />
+        <Point X="11" Y="7.25" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAABAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Leche.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2017.Producto">
+    <Position X="2" Y="0.5" Width="4.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Entidades_2017.Producto.EMarca">
+        <TypeIdentifier>
+          <NewMemberFileName>Producto.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABEAAAAAAQCAQAAAAAAAAAAAAAAAAIAAAAAAAAAAiA=</HashCode>
+      <FileName>Producto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Entidades_2017.Snacks">
+    <Position X="4.5" Y="7.25" Width="3.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAQAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAA=</HashCode>
+      <FileName>Snacks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
