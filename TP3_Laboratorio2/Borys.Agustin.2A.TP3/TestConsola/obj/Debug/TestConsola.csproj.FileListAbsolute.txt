@@ -1,0 +1,17 @@
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\TestConsola.exe
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\TestConsola.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Archivos.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Clases Abstractas.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Clases Instanciables.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Excepciones.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Archivos.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Clases Abstractas.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Clases Instanciables.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\Excepciones.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\obj\Debug\TestConsola.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\obj\Debug\TestConsola.pdb
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\bin\Debug\TestConsola.exe.config
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\obj\Debug\TestConsola.exe
+C:\Users\Agus\Documents\GitHub\TPs_Laboratorio2\TP3_Laboratorio2\Borys.Agustin.2A.TP3\TestConsola\obj\Debug\TestConsola.pdb
