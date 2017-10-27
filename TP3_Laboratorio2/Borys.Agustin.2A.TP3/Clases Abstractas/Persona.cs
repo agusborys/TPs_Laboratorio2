@@ -20,10 +20,10 @@ namespace EntidadesAbstractas
         #endregion
 
         #region Atributos
-        private string _apellido;
         private int _dni;
-        private ENacionalidad _nacionalidad; 
+        private string _apellido;
         private string _nombre;
+        private ENacionalidad _nacionalidad; 
         #endregion
         
         #region Propiedades
@@ -124,20 +124,7 @@ namespace EntidadesAbstractas
         /// <returns></returns>
         private int ValidarDni(ENacionalidad nacionalidad, string dato)
         {
-            try
-            {
-                return this.ValidarDni(nacionalidad, int.Parse(dato));
-            }
-            catch(NacionalidadInvalidaException)
-            {
-                //throw new DniInvalidoException();
-                return int.Parse(dato);
-            }
-            catch(FormatException)
-            {
-                //throw new DniInvalidoException();
-                return int.Parse(dato);
-            }
+              return this.ValidarDni(nacionalidad, int.Parse(dato));    
         }
         /// <summary>
         /// Valida una cadena para que reciba solo caracteres, si no, la formatea

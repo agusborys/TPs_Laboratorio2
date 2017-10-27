@@ -1,0 +1,14 @@
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Archivos.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Clases Abstractas.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Excepciones.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Archivos.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Clases Abstractas.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Clases Instanciables.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\bin\Debug\Excepciones.pdb
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Agus\Documents\Tecnicatura en  programacion\Lab II\TPs\TP3_Laboratorio2\Borys.Agustin.2A.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

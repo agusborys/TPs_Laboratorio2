@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archiv
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestConsola", "TestConsola\TestConsola.csproj", "{C277D6A4-7302-4A4D-918E-8161D661F36A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{B0612451-2C9D-4EE2-8F5C-D5B2AB7D9A37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{C277D6A4-7302-4A4D-918E-8161D661F36A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C277D6A4-7302-4A4D-918E-8161D661F36A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C277D6A4-7302-4A4D-918E-8161D661F36A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0612451-2C9D-4EE2-8F5C-D5B2AB7D9A37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0612451-2C9D-4EE2-8F5C-D5B2AB7D9A37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0612451-2C9D-4EE2-8F5C-D5B2AB7D9A37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0612451-2C9D-4EE2-8F5C-D5B2AB7D9A37}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
