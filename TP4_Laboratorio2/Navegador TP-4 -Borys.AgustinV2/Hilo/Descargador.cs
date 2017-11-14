@@ -25,15 +25,16 @@ namespace Hilo
             this.html = "";
             this.direccion = direccion;
         }
-
+        /// <summary>
+        /// Inicio de Descarga a partir de una direccion Web
+        /// </summary>
         public void IniciarDescarga()
         {
             try
             {
                 WebClient cliente = new WebClient();
-                cliente.DownloadProgressChanged += WebClientDownloadProgressChanged;
-                cliente.DownloadStringCompleted += WebClientDownloadCompleted;
-
+                cliente.DownloadProgressChanged += new DownloadProgressChangedEventHandler(WebClientDownloadProgressChanged);
+                cliente.DownloadStringCompleted += new DownloadStringCompletedEventHandler(WebClientDownloadCompleted);
                 cliente.DownloadStringAsync(this.direccion);
             }
             catch (Exception e)
@@ -41,11 +42,20 @@ namespace Hilo
                 throw e;
             }
         }
-
+        /// <summary>
+        /// Progreso de descarga. Lanza el evento de descarga en progreso
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void WebClientDownloadProgressChanged(object sender, DownloadProgressChangedEventArgs e)
         {
             this.descargando(e.ProgressPercentage);
         }
+        /// <summary>
+        /// Descarga Completa. Lanza el evento de Descarga completa
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void WebClientDownloadCompleted(object sender, DownloadStringCompletedEventArgs e)
         {
             try
